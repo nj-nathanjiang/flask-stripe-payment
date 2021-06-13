@@ -3,7 +3,7 @@ from flask import Flask, jsonify, request, render_template, url_for, redirect
 import os
 import json
 
-stripe.api_key = 'sk_test_51IymvIFaKZXpq6rXs2XcaO55i78p9kgTVkXSbhki1UZGk663XsLY1Se2c2kg47nzgCxCxwdkxsitrtizuBDEupYz00M7hTrgrn'
+stripe.api_key = 'api_key'
 
 price = 0
 
